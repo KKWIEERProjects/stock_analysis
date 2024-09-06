@@ -1,0 +1,15 @@
+python -m streamlit run 00_🌐_Home.py 
+
+python -m streamlit run 01_🏛️_Stock_Info.py 
+
+python -m streamlit run 02_📈_Stock_Prediction.py 
+
+python -m streamlit run 03_💻_Our_Team.py 
+
+python -m streamlit run helper.py 
+
+
+
+
+
+PORT = 8501
