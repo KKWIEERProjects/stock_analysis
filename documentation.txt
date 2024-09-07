@@ -1,3 +1,5 @@
+//run the application
+
 python -m streamlit run 00_🌐_Home.py 
 
 python -m streamlit run 01_🏛️_Stock_Info.py 
@@ -8,8 +10,6 @@ python -m streamlit run 03_💻_Our_Team.py
 
 python -m streamlit run helper.py 
 
-
-
-
+// default port
 
 PORT = 8501
