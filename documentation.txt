@@ -13,3 +13,5 @@ python -m streamlit run helper.py
 // default port
 
 PORT = 8501
+
+//  stock info data was obtained from Kaggle.
